@@ -1,1 +1,1 @@
-price ? CHF.-
+price 30 CHF.-
